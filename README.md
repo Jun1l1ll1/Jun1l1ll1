@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Juni!</h1>
-<h3 align="center">A mainly web developer that studies on Elvebakken VGS, but loves working on other projects too.</h3>
+<h3 align="center">I am mainly a web developer, and studie on Elvebakken VGS. But I love working on other projects too.</h3>
 
 <p>🔭 I’m currently working on [MagasinE](https://github.com/ElvebakkenIM/magasine) and some other small projects</p>
 <p>🌱 I’m currently learning **Svelte and Sanity**</p>
