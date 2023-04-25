@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Juni!</h1>
 <h3 align="center">A mainly web developer that studies on Elvebakken VGS, but loves working on other projects too.</h3>
 
-   🔭 I’m currently working on [MagasinE](https://github.com/ElvebakkenIM/magasine) and some other small projects
-   🌱 I’m currently learning **Svelte and Sanity**
-   📫 My e-mail is **juni.espolin.johnson@gmail.com**
+<p>🔭 I’m currently working on [MagasinE](https://github.com/ElvebakkenIM/magasine) and some other small projects</p>
+<p>🌱 I’m currently learning **Svelte and Sanity**</p>
+<p>📫 My e-mail is **juni.espolin.johnson@gmail.com**</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
