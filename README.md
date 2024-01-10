@@ -4,6 +4,7 @@
 <h4 align="center">Im a student at Elvebakken VGS</h3>
 <br/>
 
+<p>🔭 My current project is <a href=https://github.com/Jun1l1ll1/quote_flutterapp>Quote'em</a></p>
 <p>🌱 I’m currently learning <b>Flutter</b> while making mobile apps</p>
 <p>📫 My e-mail is <b>juni.espolin.johnson@gmail.com</b></p>
 <br/><br/>
