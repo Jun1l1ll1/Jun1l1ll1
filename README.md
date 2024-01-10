@@ -4,9 +4,9 @@
 <p>🌱 I’m currently learning <b>Flutter</b> while making mobile apps</p>
 <p>📫 My e-mail is <b>juni.espolin.johnson@gmail.com</b></p>
 
+<p align="left"> Add me on LinkedIn! </p>
 <p align="left">
   <a href="https://linkedin.com/in/juni-espolin-johnson-118743224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juni-espolin-johnson-118743224" height="30" width="40" /></a>
-  Add me on LinkedIn! 
 </p>
 
 <h3 align="left">Languages and Tools im Proficient in:</h3>
