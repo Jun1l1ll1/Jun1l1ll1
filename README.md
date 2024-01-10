@@ -21,4 +21,4 @@
 <img src="https://skillicons.dev/icons?i=unity,blender,tailwind,photoshop" />
 <br/>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jun1l1ll1&exclude_repo=murderousRepository&show_icons=true&locale=en&layout=compact" alt="jun1l1ll1" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jun1l1ll1&exclude_repo=my_test_repo&show_icons=true&locale=en&layout=compact" alt="jun1l1ll1" /></p>
