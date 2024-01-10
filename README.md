@@ -1,7 +1,7 @@
 <h2 align="center">Hi, I'm Juni!</h1>
 
 <h4 align="center">I am mainly a web and frontend developer, but I love learning new tools and languages!</h3>
-<h4 align="center">Im a student at Elvebakken VGS</h3>
+<h4 align="center">Currently a student at Elvebakken VGS</h3>
 <br/>
 
 <p>🔭 My current project is <a href=https://github.com/Jun1l1ll1/quote_flutterapp>Quote'em</a></p>
