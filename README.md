@@ -1,3 +1,7 @@
+<head>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+</head>
+
 <h2 align="center">Hi, I'm Juni!</h1>
 
 <h4 align="center">I am mainly a web and frontend developer, but I love learning new tools and languages!</h3>
@@ -10,6 +14,7 @@
 
 <p align="left"> 
   Add me on LinkedIn! <br/>
+  <i class="devicon-linkedin-plain colored"></i>
   <a href="https://linkedin.com/in/juni-espolin-johnson-118743224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juni-espolin-johnson-118743224" height="30" width="40" /></a>
 </p>
 <br/>
