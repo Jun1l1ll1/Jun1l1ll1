@@ -15,10 +15,10 @@
 <br/>
 
 <h3 align="left">Tools and Languages:</h3>
-<img src="https://skillicons.dev/icons?i=git,html,css,js,python,xd,illustrator,photoshop,svelte,godot,androidstudio" />
+<img src="https://skillicons.dev/icons?i=git,html,css,js,python,xd,illustrator,svelte,godot,androidstudio" />
 
 <h3 align="left">I've also used:</h3>
-<img src="https://skillicons.dev/icons?i=unity,blender,tailwind" />
+<img src="https://skillicons.dev/icons?i=unity,blender,tailwind,photoshop" />
 <!--
 <h4 align="left">Other Languages or Tools I have used:</h4>
 <p align="left"> 
