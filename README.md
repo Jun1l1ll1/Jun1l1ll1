@@ -2,6 +2,7 @@
 
 <h4 align="center">I am mainly a web and frontend developer, but I love learning new tools and languages!</h3>
 <h4 align="center">Im a student at Elvebakken VGS</h3>
+<br/>
 
 <p>🌱 I’m currently learning <b>Flutter</b> while making mobile apps</p>
 <p>📫 My e-mail is <b>juni.espolin.johnson@gmail.com</b></p>
