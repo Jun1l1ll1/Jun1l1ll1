@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Juni!</h1>
 <div align="center">
-  <h3>I am mainly a web and frontend developer, but I love learning new tools and languages!</h3>
-  <h3>Im a student at Elvebakken VGS</h3>
+  <h3 align="left">I am mainly a web and frontend developer, but I love learning new tools and languages!</h3>
+  <h3 align="left">Im a student at Elvebakken VGS</h3>
 </div>
 
 <p>🌱 I’m currently learning <b>Flutter</b> while making mobile apps</p>
