@@ -5,7 +5,7 @@
 <br/>
 
 <p>🔭 My current project is <a href=https://github.com/Jun1l1ll1/quote_flutterapp>Quote'em</a></p>
-<p>🌱 I’m currently learning <b>Flutter</b> while making mobile apps</p>
+<p>🌱 I’m currently learning <b>Flutter</b> and <b>Dart</b> while making mobile apps</p>
 <p>📫 My e-mail is <b>juni.espolin.johnson@gmail.com</b></p>
 <br/><br/>
 
@@ -16,7 +16,7 @@
 <br/>
 
 <h3 align="left">Tools and Languages:</h3>
-<img src="https://skillicons.dev/icons?i=git,html,css,js,python,xd,illustrator,svelte,godot,androidstudio" />
+<img src="https://skillicons.dev/icons?i=git,html,css,js,python,xd,illustrator,svelte,godot,androidstudio,flutter,dart" />
 
 <h3 align="left">I've also used:</h3>
 <img src="https://skillicons.dev/icons?i=unity,blender,tailwind,photoshop" />
