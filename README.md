@@ -16,7 +16,7 @@
 <br/>
 
 <h3 align="left">Tools and Languages:</h3>
-<img src="https://skillicons.dev/icons?i=git,html,css,js,python,java,autoit,xd,figma,illustrator,svelte,godot" />
+<img src="https://skillicons.dev/icons?i=git,html,css,js,python,java,xd,figma,illustrator,svelte,godot" />
 
 <h3 align="left">I've also used:</h3>
 <img src="https://skillicons.dev/icons?i=androidstudio,flutter,dart,unity,blender,tailwind,photoshop,sqlite" />
