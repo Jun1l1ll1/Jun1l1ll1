@@ -1,10 +1,10 @@
 <h2 align="center">Hi, I'm Juni!</h1>
 
 <h4 align="center">I am mainly a web and frontend developer, but I love learning new tools and languages!</h3>
-<h4 align="center">Currently a student at University of Oslo</h3>
+<h4 align="center">Currently a student at the University of Oslo and working part time at SEB-Kort</h3>
 <br/>
 
-<p>🔭 One of my current projects are <a href=https://github.com/Jun1l1ll1/Hauketo_orientering>Hauketo orientering</a></p>
+<!-- <p>🔭 One of my current projects are <a href=https://github.com/Jun1l1ll1/Hauketo_orientering>Hauketo orientering</a></p> -->
 <!-- <p>🌱 I’m currently learning <b>Flutter</b> and <b>Dart</b> while making mobile apps</p> -->
 <p>📫 My e-mail is <b>juni.espolin.johnson@gmail.com</b></p>
 <br/><br/>
